@@ -3,5 +3,5 @@ MATLAB 2017a+Simulink
 
 To run each task
 1.clear the workspace
-2.run he initialize .m file
+2.run the initialize .m file
 3.run the corresponding .m file
